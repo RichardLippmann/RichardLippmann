@@ -15,7 +15,7 @@
 ![Tools](https://skillicons.dev/icons?i=git,github,githubactions,cloudflare,docker,mysql,npm,nodejs,bun,nginx,vscode,bash,d3,discord&perline=10)
 
 ### Libraries
-![Libraries](https://skillicons.dev/icons?i=express,react,discordjs)
+![Libraries](https://skillicons.dev/icons?i=express,react)
 
 ### Programming Languages
 ![Programming Languages](https://skillicons.dev/icons?i=js,java,py,css,html,cs,cpp)
