@@ -3,7 +3,7 @@
 **I am an 18 year old developer from Germany**
 
 - 🌱 I’m currently learning **C++ and React**
-- 🔎 I'm interested in **everything tech**!
+- 🔎 I'm interested in **Programming, Servers, Game Development**!
 - 📫 If you want to talk to me, reach out to me on: 
   - Discord: *@richardlippmann
   - Email: *richard.v.lippmann@gmail.com*
