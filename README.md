@@ -1,6 +1,6 @@
-Hi 👋, I'm Richard Lippmann
+### Hi 👋, I'm Richard Lippmann
 
-I am an 18 year old developer from Germany
+**I am an 18 year old developer from Germany**
 
 - 🌱 I’m currently learning **C++ and React**
 - 🔎 I'm interested in **everything tech**!
