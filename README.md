@@ -18,4 +18,4 @@ I am an 18 year old developer from Germany
 ![Libraries](https://skillicons.dev/icons?i=express,react,discordjs)
 
 ### Programming Languages
-![Programming Languages](https://skillicons.dev/icons?i=js,java,py,css,html,Cs,Cpp)
+![Programming Languages](https://skillicons.dev/icons?i=js,java,py,css,html,ss,cpp)
